@@ -15,6 +15,7 @@ export default function CreateCount() {
       JSON.stringify({ email: email, password: password, name: name }),
       { headers: { 'Content-Type': 'application/json' } }
     )
+    router.push('/');
   }
 
 
