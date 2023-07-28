@@ -9,7 +9,7 @@ My Movies - Frontend
 <img src="./public/prints/6.png" alt="">
 
 Descrição
-Este é o frontend do projeto My Movies, uma aplicação para gerenciar seus filmes favoritos. O projeto permite que os usuários visualizem uma lista de filmes, vejam detalhes de cada filme .
+Este é o frontend do projeto My Movies, uma aplicação para visualizar seus filmes favoritos. O projeto permite que os usuários visualizem uma lista de filmes, vejam detalhes de cada filme .
 
 Funcionalidades
 Visualizar lista de filmes
@@ -36,13 +36,14 @@ Instale as dependências do projeto:
 
 yarn
 Inicie o servidor de desenvolvimento:
+https://github.com/jhonathancarneiro/node-movie
 
 
 yarn dev
 Acesse o aplicativo no seu navegador em http://localhost:3000.
 
 Uso
-Após iniciar o servidor de desenvolvimento, você verá a lista de filmes na página inicial. Clique em um filme para ver mais detalhes sobre ele. Na página de detalhes do filme, você pode clicar no botão "Adicionar aos Favoritos" para adicionar o filme à sua lista de favoritos.
+Após iniciar o servidor de desenvolvimento, você verá a lista de filmes na página inicial. Clique em um filme para ver mais detalhes sobre ele.
 
 Licença
 Este projeto está sob a licença MIT.
